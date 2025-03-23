@@ -14,7 +14,7 @@ function makeTitleOfApp()
     let titleOfApp = ce('a');
     titleOfApp.id = 'titleOfApp';
     titleOfApp.textContent = 'CATopalian JavaScript List Generator';
-    titleOfApp.href = 'https://github.com/christopherandrewtopalian/';
+    titleOfApp.href = 'https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_List_Generator';
     titleOfApp.target = '_blank';
     titleOfApp.style.fontSize = '17px';
     titleOfApp.style.fontWeight = 'bold';
