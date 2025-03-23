@@ -1,7 +1,7 @@
 # CATopalian JavaScript List Generator
 A JavaScript application that enables the person to make custom lists that are then formatted in different useful ways.  
 
-USE APP:
+USE APP: https://christopherandrewtopalian.github.io/CATopalian_JavaScript_List_Generator/CATopalian_JavaScript_List_Generator.html
 
 ![screenshot_001](src/media/textures/screenshots/001.JPG)  
 
