@@ -8,6 +8,14 @@ function makeInterface()
 
     //-//
 
+    mainDiv.append(makeTitleOfApp());
+
+    //-//
+
+    mainDiv.append(ce('br'));
+
+    //-//
+
     let buttonAdd = ce("button");
     buttonAdd.textContent = "Add Text Box";
     buttonAdd.onmouseover = function()

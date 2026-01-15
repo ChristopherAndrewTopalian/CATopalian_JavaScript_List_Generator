@@ -5,8 +5,6 @@ function whenLoaded()
     makeInterface();
 
     makeEntriesContainer();
-
-    makeTitleOfApp();
 }
 
 //----//
